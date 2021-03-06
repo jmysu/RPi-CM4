@@ -2,7 +2,7 @@
 ### Raspberry Pi CM4 Module related projects _(Work-in-Progress)_<br>
 
  
-An CM4-2layers breakout board w/ HAT-40pin and RPi-Pico.
+A CM4-2layers breakout board w/ HAT-40pin and RPi-Pico.
 With added features:
  - 1xTypeC 5V input (w/ slide on/off switch).
  - 1xTypeA USB2.0 connector.
