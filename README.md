@@ -26,4 +26,4 @@ With added features:
   -[RPi_Pico](https://www.raspberrypi.org/documentation/pico/getting-started/) Pico Getting Started!<br>
   -[RPi CM4 Datasheet](https://datasheets.raspberrypi.org/cm4/cm4-datasheet.pdf) CM4 Datasheet.<br>
   -[RPi HATs](https://thepihut.com/collections/raspberry-pi-hats) thepihut.com RPi HATs.<br>
-  
+  -[Minimum CM4 Carrier](https://github.com/dronecz/Minimal_carrier_board_for_CM4) Minimum CM4 two-layers carrier board Eagle design. 
