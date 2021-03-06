@@ -4,13 +4,14 @@
  
 An CM4 2layers breakout board w/ 40pin and RPi-Pico.
 With some added features:
- - TypeC 5V input.
- - TypeA USB2.0 connector.
- - HDMI 19ping standard output.
- - CSI-15pin camera interface.
- - TF-card connector.
- - Arduino-Uno/Mega compatible size/Holes.<br>
-   <img src="pic/CM4_2Layer0306.gif" width=320><br>
+ - 1xTypeC 5V input (w/ slide switch).
+ - 1xTypeA USB2.0 connector.
+ - 1xHDMI standard output.
+ - 1xCSI-15pin camera interface.
+ - 1xTF-card connector.
+ - 2xGrove connectors for UART/I2C.
+ - 1xLiPo charger for RPi-Pico(Optional)<br>
+   <img src="pic/CM4_2Layer0306.gif" width=400><br>
 
 <img src="pic/CM4_2Layer0306Wo.png" width=400><img src="pic/CM4_2Layer0306.png" width=400> <br>
 <br>
