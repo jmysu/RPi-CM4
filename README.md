@@ -25,5 +25,5 @@ With added features:
 ## References <br>
   -[RPi_Pico](https://www.raspberrypi.org/documentation/pico/getting-started/) Pico Getting Started!<br>
   -[RPi CM4 Datasheet](https://datasheets.raspberrypi.org/cm4/cm4-datasheet.pdf) CM4 Datasheet.<br>
-  -[Some RPi HATs](https://thepihut.com/collections/raspberry-pi-hats) Some RPi HATs modules.<br>
+  -[RPi HATs](https://thepihut.com/collections/raspberry-pi-hats) thepihut.com RPi HATs.<br>
   
